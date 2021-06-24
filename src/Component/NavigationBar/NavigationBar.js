@@ -5,8 +5,8 @@ import Drawer from './SideBar';
 
 export default function NavigationBar() {
     return (
-        <div className="bg-danger nav-font">
-            <ul className="list-unstyled border border-dark d-flex align-items-center">
+        <div className="nav-font text-white">
+            <ul className="list-unstyled d-flex align-items-center">
                 <li className="list-inline-item ml-3">
                     <img style={{ width: '5rem', color: 'red' }} src={homeIcon} alt="" />
                 </li>

@@ -1,10 +1,11 @@
 import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
-import NavigationBar from './Component/NavigationBar/NavigationBar';
+import Home from './Component/Home/Home';
 
 const App = () => (
     <Router>
-        <NavigationBar />
+        {/* <NavigationBar /> */}
+        <Home />
     </Router>
 );
 
