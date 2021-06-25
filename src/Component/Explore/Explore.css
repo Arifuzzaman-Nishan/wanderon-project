@@ -1,0 +1,12 @@
+.explore-text-style {
+  /* width: 10vw; */
+  /* font-size: 1.2vw; */
+  font-weight: 600;
+  color: rgb(58, 58, 58);
+  /* text-transform: uppercase;
+    text-align: center; */
+}
+.primary-color {
+  color: rgb(10, 158, 136);
+  font-weight: 700;
+}

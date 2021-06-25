@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20210624T202343Z
+UID:a20b251e-5fcd-4495-9cdc-1406cef3de53
+DTSTART:20210625T171500Z
+DTEND:20210625T173000Z
+DESCRIPTION:You are invited for discussion regarding your job application -
+  প্রোগ্রামিং হিরো টিম মেম্
+ বার(সাপোর্ট ইন্সট্রাকটর) 
+ খুঁজছে।
+LOCATION:Dhaka\, Bangladesh
+ORGANIZER;CN=Abu Sufian:mailto:abu.sufian.sazzil@gmail.com
+SUMMARY:প্রোগ্রামিং হিরো টিম মে
+ ম্বার(সাপোর্ট ইন্সট্রাকটর) 
+ খুঁজছে। Interview - Onsite
+END:VEVENT
+END:VCALENDAR
